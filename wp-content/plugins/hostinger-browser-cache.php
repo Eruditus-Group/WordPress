@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hostinger Browser Cache
+Plugin Name: Browser Cache
 Description: Browser caching.
 Version: 0.1
 License: GPLv2 or later

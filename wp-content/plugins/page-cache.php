@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hostinger Page Cache
+Plugin Name: Page Cache
 Description: Static file caching.
 Version: 0.2
 License: GPLv2 or later
